@@ -1,0 +1,11 @@
+{
+  "name": "triple-sprout-games-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "三颗西兰花（Triple Sprout Games）厂商官方网站",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node --check server.mjs"
+  }
+}
