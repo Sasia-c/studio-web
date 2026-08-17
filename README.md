@@ -21,6 +21,8 @@ npm start
 - `assets/vegetables-battle-*`：《蔬菜能量战》图标与宣传图
 - `styles.css`：桌面端与移动端响应式样式
 
+Android 测试包作为 GitHub Release 附件托管，官网首页提供直接下载入口，避免将大体积 APK 提交到 Git 仓库。
+
 ## 部署
 
 这是一个不需要构建步骤的纯静态网站。上传整个目录到 Cloudflare Pages、Vercel、GitHub Pages 或其他静态网站服务即可。
