@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://sasia-c.github.io/studio-web/sitemap.xml

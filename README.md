@@ -14,13 +14,15 @@ npm start
 
 ## 页面内容
 
-- `index.html`：厂商首页、团队简介、游戏展示占位区和联系方式
+- `index.html`：厂商首页、团队简介、《蔬菜能量战》介绍、宣传画面和联系方式
+- `vegetables-battle-privacy.html`：《蔬菜能量战》H5 与 Android 版本隐私政策
 - `privacy.html`：官方网站隐私政策
 - `assets/tsg-logo.png`：厂商 Logo
+- `assets/vegetables-battle-*`：《蔬菜能量战》图标与宣传图
 - `styles.css`：桌面端与移动端响应式样式
 
 ## 部署
 
-这是一个不需要构建步骤的纯静态网站。上传整个目录到 Cloudflare Pages、Vercel、GitHub Pages 或其他静态网站服务即可。部署完成并获得正式域名后，可再补充 `sitemap.xml`、规范链接和网站备案信息。
+这是一个不需要构建步骤的纯静态网站。上传整个目录到 Cloudflare Pages、Vercel、GitHub Pages 或其他静态网站服务即可。
 
 GitHub Pages 使用 `main` 分支根目录作为发布源。推送到 `main` 后，Pages 会自动重新发布网站，不需要额外的构建步骤。
